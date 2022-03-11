@@ -18,6 +18,10 @@ stage area if we desire to undo this change hit the minus button. then above we 
 this case happens when we have different commints made and we desire to compare, go to the files projects
 and below on the left corner we can see timeline, hit timeline and we can click on the file and see the differents between commits.
 
+### comparing changes between commits
+
+    go to timeline section and right click on the file we are interested in to compare and ```select for compare```  and then pick another one and right click and choose ```compare with selected```.
+
 ### create a branch
 
 go to below on the left corner and do a click on master and select create a branch, and introduce input the name of the branch,
